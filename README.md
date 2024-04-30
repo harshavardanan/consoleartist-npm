@@ -47,8 +47,9 @@ const {red, bold} = artist;
 console.log(red(bold('Bold and red text')));
 
 
-// Background color
-console.log(artist.bgGreen('Green background'));
+// Background color with Dot
+const {bgGreen, dot} = artist;
+console.log(dot(bgGreen('Green background')));
 ```
 ![image](https://github.com/harshavardanan/consoleartist-npm/assets/68936029/fcd35bdf-fea2-48cd-8d30-de2212278fdd)
 
