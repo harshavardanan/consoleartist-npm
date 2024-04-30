@@ -1,0 +1,19 @@
+{
+  "name": "consoleartist",
+  "version": "1.0.0",
+  "description": "Elevate your terminal applications with vibrant text styling and color options, enhancing readability and user experience. Craft visually appealing command-line interfaces effortlessly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "colors",
+    "color",
+    "console",
+    "terminal",
+    "shell"
+  ],
+  "author": "Harshavardanan",
+  "license": "ISC",
+  "dependencies": {}
+}
