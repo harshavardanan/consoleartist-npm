@@ -21,7 +21,7 @@ ConsoleArtist is a lightweight npm package designed to empower developers to cra
 - Additional Styles:
   - bold, italic, underline, strikethrough
 - Special Effects:
-  - dot
+  - dot, rgb, rainbow
 
 ## Installation
 
