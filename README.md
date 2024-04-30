@@ -46,6 +46,9 @@ console.log(artist.rgb('Hello World!', 255, 0, 0)); // Red text
 const {red, bold} = artist;
 console.log(red(bold('Bold and red text')));
 
+![image](https://github.com/harshavardanan/consoleartist-npm/assets/68936029/a2ca6f52-e584-4ae3-8f0b-e1524bbc3839)
+
+
 // Background color
 console.log(artist.bgGreen('Green background'));
 ```
