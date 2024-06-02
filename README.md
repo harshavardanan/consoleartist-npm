@@ -55,3 +55,4 @@ console.log(dot(bgGreen('Green background')));
 
 
 Feel free to customize and tailor ConsoleArtist according to your specific requirements and preferences. Happy crafting!
+Source - https://www.npmjs.com/package/consoleartist
